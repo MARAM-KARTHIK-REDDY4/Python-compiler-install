@@ -18,3 +18,17 @@ pkg install nano -y
 echo ""
 pkg install mpv -y
 echo " "
+pkg install git -y
+echo " "
+pkg install wget -y
+echo " "
+pkg install php -y
+echo " "
+pkg install python -y
+echo " "
+pkg install python2 -y
+echo " "
+pkg install cmatrix -y
+echo " "
+pkg install sl -y 
+echo " "
