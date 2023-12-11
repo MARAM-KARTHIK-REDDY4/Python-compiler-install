@@ -6,6 +6,6 @@ pkg install git -y
 echo " "
 pkg install cmatrix -y
 echo " "
-pkg install openjdk-17 
+pkg install python && pkg install python2
 echo " "
 
